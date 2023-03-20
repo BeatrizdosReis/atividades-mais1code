@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T12:40:50.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="4oAy09-wt7Ofet9YBp6S" type="github"><diagram name="Página-1" id="qMCE2wPNyc6NZeqZVjZA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-20T13:17:58.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PtW4lqHLMUq7iGk4gs3m" version="21.0.8" type="github">
+  <diagram name="Página-1" id="qMCE2wPNyc6NZeqZVjZA">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="js2e4M69m9S1stCpQotM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js2e4M69m9S1stCpQotM-3" target="js2e4M69m9S1stCpQotM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-3" value="Usuário acessa o app" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="339" y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js2e4M69m9S1stCpQotM-4" target="js2e4M69m9S1stCpQotM-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="340" />
+              <mxPoint x="414" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-4" value="Página inicial contendo apresentação e instruções de uso" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="215" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js2e4M69m9S1stCpQotM-6" target="js2e4M69m9S1stCpQotM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js2e4M69m9S1stCpQotM-6" target="js2e4M69m9S1stCpQotM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-6" value="Usuário decide se cria conta ou faz login" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-8" value="Página de cadastro" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js2e4M69m9S1stCpQotM-10" value="Página de login" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
